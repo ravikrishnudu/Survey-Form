@@ -1,0 +1,160 @@
+main {
+    background-color: lightblue;
+    
+}
+.all {
+  background: white;
+  width: 75%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px;
+  padding-top: 20px;
+}
+
+/* h1 {
+  display: flex;
+  justify-content: center;
+} */
+
+p {
+  display: flex;
+  justify-content: center;
+}
+.name {
+  display: flex;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.name > div {
+  flex: 1;
+}
+.namealign {
+  display: flex;
+  justify-content: flex-end;
+}
+.namealign label {
+  padding-right: 20px;
+}
+
+.email {
+  display: flex;
+  margin-bottom: 10px;
+}
+.email > div {
+  flex: 1;
+}
+.age {
+  display: flex;
+  margin-bottom: 10px;
+}
+.age > div {
+  flex: 1;
+}
+
+.role {
+  display: flex;
+  justify-content: flex-end;
+}
+.role > div {
+  flex: 1;
+}
+
+.describes {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.describes label {
+  padding-right: 20px;
+}
+.freecodecamp {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  /*flex:1;*/
+}
+
+.freecodecamp > div {
+  flex: 1;
+}
+
+.freecodecamp label {
+  font-size: 1rem;
+  margin-bottom: 0px;
+}
+
+.fcc {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.fcc span {
+  padding-right: 20px;
+}
+
+.fcc1 {
+  display: flex;
+  justify-content: flex-end;
+}
+.most {
+  display: flex;
+  margin-top: 30px;
+}
+
+.most div {
+  flex: 1;
+}
+
+.tutorials {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.tutorials label {
+  padding-right: 20px;
+}
+.things {
+  margin: 20px;
+  margin-bottom: 30px;
+  display: flex;
+}
+
+.things > div {
+  flex: 1;
+}
+.thiings label {
+  margin-bottom: 0;
+}
+.future1 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.improved {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.improved span {
+  padding-right: 20px;
+}
+.Comments {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.Comments > div {
+  flex: 1;
+}
+.suggest {
+  display: flex;
+  justify-content: flex-end;
+}
+.suggest label {
+  padding-right: 20px;
+}
+
+.button {
+  text-align: center;
+}
