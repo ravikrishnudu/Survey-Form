@@ -11,10 +11,10 @@ main {
   padding-top: 20px;
 }
 
-/* h1 {
+h1 {
   display: flex;
   justify-content: center;
-} */
+}
 
 p {
   display: flex;
